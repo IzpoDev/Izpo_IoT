@@ -1,4 +1,4 @@
-#define BLYNK_AUTH_TOKEN "SFLzVP-YPJVtxrwJa_7kXBWoCEJtwvu2"
+#define BLYNK_AUTH_TOKEN "SFLzVP-YPJtxrwJa_7kXBWoCEJtwvu2"
 #define BLYNK_TEMPLATE_ID "TMPL20LwUoRWV"
 #define BLYNK_TEMPLATE_NAME "Practica Calificada"
 
@@ -9,8 +9,8 @@
 
 BlynkTimer timer;
 
-char network[] = "IzpoWifi";
-char password[] = "Izpo12345678901";
+char network[] = "tu wifi";
+char password[] = "tu password";
 
 #include "DHT.h"
 #define DHTPIN 13 
