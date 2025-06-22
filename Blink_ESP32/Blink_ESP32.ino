@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_NAME "Practica Calificada"
-#define BLYNK_AUTH_TOKEN "SFLzVP-YPJVtxrwJa_7kXBWoCEJtwvu2L"
+#define BLYNK_AUTH_TOKEN "SFLzVP-YPJVtxrwJa_7kXBWoCEJtwvu2"
 #define BLYNK_TEMPLATE_ID "TMPL20LwUoRWV"
+#define BLYNK_TEMPLATE_NAME "Practica Calificada"
 
 #define BLYNK_PRINT Serial
 #include <WiFi.h>
